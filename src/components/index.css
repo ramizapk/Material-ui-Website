@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.parent{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link{
+  color: rgb(228, 49, 49);
+  font-size: 36px;
+  font-family: sans-serif;
+  font-weight: 400;
+
+}
+
+
+.icon-parent{
+  width: 400px;
+  margin-left: 1000px;
+
+}
+
+.link-parent{
+  width: 800px;
+}
+
